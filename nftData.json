@@ -1,0 +1,131 @@
+{
+    "nfts":
+        [
+            {
+                "name": "Alien",
+                "author": "Anais Neacsu-Dalu",
+                "summary": "from Candy Midjourney Bundle",
+                "price": 0.3,
+                "coin": 1,
+                "taken": 0
+            },
+
+            {
+                "name": "Lunch",
+                "author": "Anais Neacsu-Dalu",
+                "summary": "from Flesh Midjourney Bundle",
+                "price": 5.14,
+                "coin": 2,
+                "taken": 0
+            },
+
+            {
+                "name": "Earth",
+                "author": "Anais Neacsu-Dalu",
+                "summary": "from Relaxation Midjourney Bundle",
+                "price": 2.89,
+                "coin": 3,
+                "taken": 0
+            },
+
+            {
+                "name": "Jesus Christ",
+                "author": "Anais Neacsu-Dalu",
+                "summary": "from Flesh Midjourney Bundle",
+                "price": 1.26,
+                "coin": 1,
+                "taken": 0
+            },
+
+            {
+                "name": "Steak",
+                "author": "Anais Neacsu-Dalu",
+                "summary": "from ImageOf Midjourney Bundle",
+                "price": 7,
+                "coin": 2,
+                "taken": 0
+            },
+
+            {
+                "name": "Teeth",
+                "author": "Anais Neacsu-Dalu",
+                "summary": "from ImageOf Midjourney Bundle",
+                "price": 14,
+                "coin": 3,
+                "taken": 0
+            },
+
+            {
+                "name": "Lux Lisbon 1",
+                "author": "Anais Neacsu-Dalu",
+                "summary": "from Girlhood, Godhood Kandinsky2 Bundle",
+                "price": 1.76,
+                "coin": 1,
+                "taken": 0
+            },
+
+            {
+                "name": "Lux Lisbon 2",
+                "author": "Anais Neacsu-Dalu",
+                "summary": "from Girlhood, Godhood Kandinsky2 Bundle",
+                "price": 30,
+                "coin": 2,
+                "taken": 0
+            },
+
+            {
+                "name": "Rest 1",
+                "author": "Anais Neacsu-Dalu",
+                "summary": "from 1 Week In My Bed Kandinsky2 Bundle",
+                "price": 1500,
+                "coin": 3,
+                "taken": 0
+            },
+
+            {
+                "name": "Rest 2",
+                "author": "Anais Neacsu-Dalu",
+                "summary": "from 1 Week In My Bed Kandinsky2 Bundle",
+                "price": 6.01,
+                "coin": 1,
+                "taken": 0
+            },
+            
+            {
+                "name": "Rest 3",
+                "author": "Anais Neacsu-Dalu",
+                "summary": "from 1 Week In My Bed Kandinsky2 Bundle",
+                "price": 170,
+                "coin": 2,
+                "taken": 0
+            },
+
+            {
+                "name": "Supermarket",
+                "author": "Anais Neacsu-Dalu",
+                "summary": "from Relaxation Midjourney Bundle",
+                "price": 15,
+                "coin": 3,
+                "taken": 0
+            },
+
+            {
+                "name": "Nuns",
+                "author": "Anais Neacsu-Dalu",
+                "summary": "from Candy Midjourney Bundle",
+                "price": 3.45,
+                "coin": 1,
+                "taken": 0
+            },
+
+            {
+                "name": "Light",
+                "author": "Anais Neacsu-Dalu",
+                "summary": "from ImageOf Midjourney Bundle",
+                "price": 67.362,
+                "coin": 2,
+                "taken": 0
+            }
+
+        ]
+}
